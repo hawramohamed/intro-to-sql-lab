@@ -38,10 +38,10 @@ CREATE TABLE countrylanguages (
     percentage real NOT NULL
 );
 
-INSERT INTO cities VALUES (1,'Kabul','AFG','Kabol',1780000);
+
 INSERT INTO cities VALUES (2,'Qandahar','AFG','Qandahar',237500);
 INSERT INTO cities VALUES (3,'Herat','AFG','Herat',186800);
-INSERT INTO cities VALUES (4,'Mazar-e-Sharif','AFG','Balkh',127800);
+INSERT INTO ciINSERT INTO cities VALUES (1,'Kabul','AFG','Kabol',1780000);ties VALUES (4,'Mazar-e-Sharif','AFG','Balkh',127800);
 INSERT INTO cities VALUES (5,'Amsterdam','NLD','Noord-Holland',731200);
 INSERT INTO cities VALUES (6,'Rotterdam','NLD','Zuid-Holland',593321);
 INSERT INTO cities VALUES (7,'Haag','NLD','Zuid-Holland',440900);
